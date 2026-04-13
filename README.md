@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello, I'm Abdul Raafey 👋
+Aspiring developer with a passion for **Cybersecurtiy and Digital Forensics**
 
-<!--
-**abdulraafey96-svg/abdulraafey96-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building security-based projects 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Projects I have built
+
+
+
+🚧 Projects I Want to Build
+
+- Password manager
+- Digital intrusion detector
+- Website security checker
+
+🛠️ Currently Learning
+
+- **Theoretical Cybersec concepts** — Cloud security, command lines, cryptograpghy
+- **Git & GitHub** — version control and open source collaboration
+- **Frontend**
+- **Backend**
+
+
+**Let's Connect**
+
+📩 Email- abdul.raafey96@gmail.com
+🌐 LinkedIn- https://www.linkedin.com/in/abdul-raafey-94085a338/
