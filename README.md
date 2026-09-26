@@ -1,5 +1,5 @@
 ## Hello, I'm Abdul Raafey 👋
-Aspiring developer with a passion for **Cybersecurtiy and Digital Forensics**
+Aspiring developer with a passion for **Cybersecurity and Digital Forensics**
 
 I love building security-based projects 
 
